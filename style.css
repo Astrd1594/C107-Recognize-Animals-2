@@ -1,0 +1,23 @@
+#how-to-label{
+    font-size:17px;
+}
+#start-button{
+    font-size: 15px;
+}
+h1,label,b{
+    cursor: default;
+}
+#header_section{
+    width: 100%;
+    text-align: center;
+    top:0px;
+}
+body{
+    background-color: lightgrey;
+}
+button{
+    background-color: rgb(230, 185, 243);
+}
+.alert-warning{
+    width: 350px;
+}
